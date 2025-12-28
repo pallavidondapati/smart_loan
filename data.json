@@ -1,0 +1,485 @@
+[
+  {
+    "label": "Loan Information",
+    "question": "What is a personal loan?",
+    "answer": "A personal loan is an unsecured loan that can be used for various personal expenses such as medical costs, travel, or home improvements. Approval and terms depend on the bank’s eligibility criteria.",
+    "reasoning": "This response provides a correct definition and avoids guarantees, reflecting standard banking explanations."
+  },
+  {
+    "label": "Loan Eligibility",
+    "question": "Who is eligible to apply for a personal loan?",
+    "answer": "Eligibility for a personal loan is generally based on factors such as income stability, credit history, employment status, and repayment capacity.",
+    "reasoning": "The answer mentions realistic eligibility factors without promising approval."
+  },
+  {
+    "label": "Interest Rate Inquiry",
+    "question": "What determines the interest rate on a loan?",
+    "answer": "Loan interest rates are determined by factors such as the applicant’s credit profile, loan amount, tenure, and whether the rate is fixed or floating.",
+    "reasoning": "This accurately reflects how banks assess interest rates in practice."
+  },
+  {
+    "label": "Documentation",
+    "question": "What documents are required to apply for a loan?",
+    "answer": "Banks typically require proof of identity, proof of address, income documents, and recent bank statements. Additional documents may be requested depending on the loan type.",
+    "reasoning": "The response lists standard documents while allowing flexibility for bank policies."
+  },
+  {
+    "label": "Loan Repayment",
+    "question": "How do I repay my loan?",
+    "answer": "Loans are usually repaid through Equated Monthly Installments, or EMIs, over the agreed loan tenure.",
+    "reasoning": "This matches standard repayment structures used by banks."
+  },
+  {
+    "label": "Late Payment",
+    "question": "What happens if I miss an EMI payment?",
+    "answer": "Missing an EMI payment may result in late payment charges and could negatively affect your credit score. Repeated delays may lead to further action by the bank.",
+    "reasoning": "The answer explains consequences accurately without using threatening language."
+  },
+  {
+    "label": "Prepayment",
+    "question": "Can I repay my loan before the tenure ends?",
+    "answer": "Many loans allow prepayment or foreclosure, which may reduce the total interest payable. Any applicable charges depend on the loan terms and bank policy.",
+    "reasoning": "Prepayment is described realistically with appropriate conditions."
+  },
+  {
+    "label": "Credit Score",
+    "question": "Does taking a loan affect my credit score?",
+    "answer": "Applying for a loan may result in a credit inquiry, and timely repayment can positively influence your credit score over time.",
+    "reasoning": "This reflects how credit scores are impacted by borrowing behavior."
+  },
+  {
+    "label": "Home Loan Information",
+    "question": "What is a home loan?",
+    "answer": "A home loan is a secured loan used to purchase or refinance residential property, where the property generally serves as collateral.",
+    "reasoning": "The definition correctly classifies home loans as secured lending products."
+  },
+  {
+    "label": "Auto Loan Information",
+    "question": "What is an auto loan?",
+    "answer": "An auto loan is a secured loan used to finance the purchase of a vehicle, with the vehicle usually acting as collateral.",
+    "reasoning": "This response accurately reflects how auto loans work."
+  },
+  {
+    "label": "Education Loan",
+    "question": "What is an education loan used for?",
+    "answer": "An education loan helps finance higher education expenses such as tuition, accommodation, and related costs, subject to bank policy.",
+    "reasoning": "The answer stays general and avoids country-specific claims."
+  },
+  {
+    "label": "Business Loan",
+    "question": "Can I apply for a loan to expand my business?",
+    "answer": "Business loans may be used for expansion, working capital, or operational needs, depending on eligibility and business assessment.",
+    "reasoning": "This reflects realistic business lending practices."
+  },
+  {
+    "label": "Processing Time",
+    "question": "How long does it take to get a loan approved?",
+    "answer": "Loan approval time varies based on the loan type, documentation completeness, and internal verification processes.",
+    "reasoning": "Processing time is correctly described as variable."
+  },
+  {
+    "label": "Income Requirement",
+    "question": "Is there a minimum income requirement for loans?",
+    "answer": "Most banks require a minimum income to ensure repayment capacity, which varies depending on the loan product.",
+    "reasoning": "This matches standard risk assessment criteria."
+  },
+  {
+    "label": "Collateral Requirement",
+    "question": "Do all loans require collateral?",
+    "answer": "Not all loans require collateral. Secured loans require collateral, while unsecured loans typically do not.",
+    "reasoning": "The distinction between secured and unsecured loans is accurate."
+  },
+  {
+    "label": "Loan Rejection",
+    "question": "Why might a loan application be rejected?",
+    "answer": "Loan applications may be rejected due to factors such as insufficient income, poor credit history, or high existing liabilities.",
+    "reasoning": "The response gives common reasons without exposing internal decision rules."
+  },
+  {
+    "label": "Customer Support",
+    "question": "Who can I contact for help with my loan application?",
+    "answer": "You can contact the bank’s customer support team or visit a branch for assistance with your loan application.",
+    "reasoning": "Escalation to human support is appropriate and realistic."
+  },
+  {
+    "label": "Interest Calculation",
+    "question": "How is loan interest calculated?",
+    "answer": "Loan interest is calculated based on the principal amount, applicable interest rate, and loan tenure as outlined in the loan agreement.",
+    "reasoning": "This accurately reflects contractual interest calculation."
+  },
+  {
+    "label": "Loan Tenure",
+    "question": "How do I choose the right loan tenure?",
+    "answer": "Selecting a loan tenure depends on your monthly repayment capacity, existing financial obligations, and long-term financial goals.",
+    "reasoning": "The response promotes responsible borrowing behavior."
+  },
+  {
+    "label": "Loan Modification",
+    "question": "Can I change my loan terms after approval?",
+    "answer": "Changes to loan terms may be possible under specific conditions and are subject to bank approval.",
+    "reasoning": "This reflects real-world banking constraints and approval processes."
+  },
+
+  {
+    "label": "Loan Comparison",
+    "question": "What is the difference between a secured and an unsecured loan?",
+    "answer": "A secured loan requires collateral such as property or a vehicle, while an unsecured loan does not require collateral and is approved based on creditworthiness.",
+    "reasoning": "This distinction is fundamental to lending and is explained accurately without oversimplification."
+  },
+  {
+    "label": "Interest Rate Type",
+    "question": "What is a fixed interest rate loan?",
+    "answer": "A fixed interest rate loan has an interest rate that remains unchanged throughout the loan tenure, providing predictable repayment amounts.",
+    "reasoning": "The answer correctly explains fixed rates and their key benefit."
+  },
+  {
+    "label": "Interest Rate Type",
+    "question": "What is a floating interest rate loan?",
+    "answer": "A floating interest rate loan has an interest rate that may change over time based on market conditions or benchmark rates.",
+    "reasoning": "This reflects real-world variability in floating-rate loans."
+  },
+  {
+    "label": "Eligibility Assessment",
+    "question": "Does my employment type affect loan eligibility?",
+    "answer": "Yes, employment type may affect loan eligibility, as banks assess income stability differently for salaried and self-employed applicants.",
+    "reasoning": "Banks do consider employment type, and the answer avoids implying discrimination or guarantees."
+  },
+  {
+    "label": "Loan Amount",
+    "question": "How is the maximum loan amount decided?",
+    "answer": "The maximum loan amount is typically determined based on income, repayment capacity, credit profile, and the specific loan product.",
+    "reasoning": "This reflects standard affordability assessments used by lenders."
+  },
+  {
+    "label": "Application Process",
+    "question": "Can I apply for a loan online?",
+    "answer": "Many banks allow customers to apply for loans online, though some steps may require document verification or in-person confirmation.",
+    "reasoning": "This accurately reflects modern banking processes with realistic limitations."
+  },
+  {
+    "label": "Application Status",
+    "question": "How can I check the status of my loan application?",
+    "answer": "Loan application status can usually be checked through the bank’s online portal, customer support, or by visiting a branch.",
+    "reasoning": "The response provides common and realistic tracking options."
+  },
+  {
+    "label": "Loan Charges",
+    "question": "Are there any processing fees for loans?",
+    "answer": "Many loans include processing fees or administrative charges, which vary by loan type and bank policy.",
+    "reasoning": "The answer correctly mentions fees without assuming they are always charged."
+  },
+  {
+    "label": "Foreclosure",
+    "question": "What does loan foreclosure mean?",
+    "answer": "Loan foreclosure refers to fully repaying the outstanding loan amount before the end of the loan tenure.",
+    "reasoning": "The definition is accurate and commonly used in banking contexts."
+  },
+  {
+    "label": "Penalty Charges",
+    "question": "Is there a penalty for late loan payments?",
+    "answer": "Late loan payments may attract penalty charges as outlined in the loan agreement and can also impact credit history.",
+    "reasoning": "This reflects contractual and credit-related consequences."
+  },
+  {
+    "label": "Credit History",
+    "question": "Why is credit history important for loan approval?",
+    "answer": "Credit history helps banks assess past repayment behavior and evaluate the risk associated with lending.",
+    "reasoning": "This is a core principle of credit risk assessment."
+  },
+  {
+    "label": "Co-Applicant",
+    "question": "Can I add a co-applicant to my loan?",
+    "answer": "Some loans allow the addition of a co-applicant, which may improve eligibility by combining income and credit profiles.",
+    "reasoning": "The answer is accurate and avoids guaranteeing improved approval chances."
+  },
+  {
+    "label": "Guarantor",
+    "question": "What is the role of a guarantor in a loan?",
+    "answer": "A guarantor agrees to repay the loan if the borrower fails to meet repayment obligations, subject to the loan terms.",
+    "reasoning": "This reflects the legal and financial role of a guarantor."
+  },
+  {
+    "label": "Loan Restructuring",
+    "question": "Can a loan be restructured if I face financial difficulty?",
+    "answer": "Loan restructuring may be considered in certain cases, depending on bank policy and the borrower’s financial situation.",
+    "reasoning": "The response is realistic and avoids implying automatic approval."
+  },
+  {
+    "label": "EMI Calculation",
+    "question": "How is my EMI amount calculated?",
+    "answer": "EMI amounts are calculated based on the loan principal, interest rate, and tenure, as specified in the loan agreement.",
+    "reasoning": "This explanation aligns with standard EMI calculation methods."
+  },
+  {
+    "label": "Loan Closure",
+    "question": "What documents do I receive after closing my loan?",
+    "answer": "After loan closure, banks typically provide a no-dues certificate and return any original documents held as collateral.",
+    "reasoning": "This reflects standard post-closure banking practices."
+  },
+  {
+    "label": "Balance Transfer",
+    "question": "What is a loan balance transfer?",
+    "answer": "A loan balance transfer allows a borrower to move the outstanding loan amount to another lender, often to obtain better terms.",
+    "reasoning": "The concept is explained accurately without promotional language."
+  },
+  {
+    "label": "Top-Up Loan",
+    "question": "What is a loan top-up?",
+    "answer": "A loan top-up is an additional amount offered on an existing loan, subject to eligibility and bank approval.",
+    "reasoning": "This matches how top-up loans function in practice."
+  },
+  {
+    "label": "Documentation Verification",
+    "question": "Why does the bank verify my documents?",
+    "answer": "Document verification helps banks confirm identity, income, and authenticity of information provided during the loan application.",
+    "reasoning": "The explanation reflects compliance and risk management requirements."
+  },
+  {
+    "label": "Customer Communication",
+    "question": "Will the bank notify me before debiting my EMI?",
+    "answer": "Banks typically inform customers about EMI schedules during loan onboarding, and debits occur as per the agreed mandate.",
+    "reasoning": "This accurately reflects how EMI mandates and communication work."
+  },
+  {
+    "label": "Loan Eligibility",
+    "question": "Does my age affect my loan eligibility?",
+    "answer": "Age can be a factor in loan eligibility, as banks usually require borrowers to fall within a specified age range at the time of loan application and repayment completion.",
+    "reasoning": "Banks consider age to ensure legal eligibility and repayment feasibility over the loan tenure."
+  },
+  {
+    "label": "Income Stability",
+    "question": "How important is income stability for loan approval?",
+    "answer": "Income stability is important because it helps banks assess the borrower’s ability to repay the loan consistently over time.",
+    "reasoning": "Stable income reduces credit risk and is a standard evaluation criterion."
+  },
+  {
+    "label": "Credit Score",
+    "question": "Can I get a loan with a low credit score?",
+    "answer": "Obtaining a loan with a low credit score may be challenging, as banks consider credit history an important factor. Some options may still be available under specific conditions or with additional requirements.",
+    "reasoning": "The answer is realistic and avoids promising approval while acknowledging possible alternatives."
+  },
+  {
+    "label": "Loan Application",
+    "question": "Can I apply for multiple loans at the same time?",
+    "answer": "You may apply for multiple loans, but banks will assess your overall repayment capacity and existing obligations before approving any new credit.",
+    "reasoning": "This reflects how lenders evaluate total financial exposure."
+  },
+  {
+    "label": "Documentation",
+    "question": "Do banks accept digital copies of documents for loan applications?",
+    "answer": "Many banks accept digital copies during the initial application process, though original documents may be required for final verification.",
+    "reasoning": "This matches current digital banking practices with compliance safeguards."
+  },
+  {
+    "label": "Loan Disbursement",
+    "question": "When is the loan amount disbursed after approval?",
+    "answer": "Loan disbursement typically occurs after approval and completion of all required documentation and verification steps.",
+    "reasoning": "Disbursement timelines depend on procedural completion, which is accurately stated."
+  },
+  {
+    "label": "Interest Rate Change",
+    "question": "Can the interest rate on my loan change during the tenure?",
+    "answer": "For floating-rate loans, interest rates may change during the tenure based on market conditions, while fixed-rate loans usually remain unchanged.",
+    "reasoning": "The answer correctly distinguishes between fixed and floating rates."
+  },
+  {
+    "label": "Repayment Mode",
+    "question": "What payment methods are available for EMI repayment?",
+    "answer": "EMIs are commonly paid through auto-debit mandates, online banking transfers, or other bank-approved payment methods.",
+    "reasoning": "This reflects commonly offered repayment channels."
+  },
+  {
+    "label": "Loan Agreement",
+    "question": "Why should I read the loan agreement carefully?",
+    "answer": "Reading the loan agreement helps you understand interest rates, fees, repayment terms, and other conditions before accepting the loan.",
+    "reasoning": "The response encourages informed decision-making without legal overreach."
+  },
+  {
+    "label": "Penalty Awareness",
+    "question": "Are there penalties for partial prepayment of a loan?",
+    "answer": "Some loans may include partial prepayment charges, depending on the loan terms and bank policy.",
+    "reasoning": "Partial prepayment policies vary, and the answer reflects that variability."
+  },
+  {
+    "label": "Loan Renewal",
+    "question": "Can I renew my loan after it ends?",
+    "answer": "Loan renewal is not automatic and usually requires a fresh application and eligibility assessment.",
+    "reasoning": "This aligns with standard lending procedures."
+  },
+  {
+    "label": "Existing Liabilities",
+    "question": "Do my existing loans affect new loan approval?",
+    "answer": "Yes, existing loans are considered when assessing your repayment capacity and overall financial obligations.",
+    "reasoning": "Banks routinely assess total debt exposure."
+  },
+  {
+    "label": "Loan Statements",
+    "question": "Can I get a statement of my loan account?",
+    "answer": "Banks typically provide loan account statements through online portals or upon request via customer support.",
+    "reasoning": "Access to loan statements is a standard customer service feature."
+  },
+  {
+    "label": "Foreclosure Charges",
+    "question": "Are foreclosure charges applicable on all loans?",
+    "answer": "Foreclosure charges may apply to certain loan types and are governed by the terms mentioned in the loan agreement.",
+    "reasoning": "Charges vary by loan and policy, which is correctly conveyed."
+  },
+  {
+    "label": "Loan Insurance",
+    "question": "What is loan insurance and is it mandatory?",
+    "answer": "Loan insurance is an optional product that helps cover loan repayments in specific situations, and it is generally not mandatory unless specified by the bank.",
+    "reasoning": "The answer clarifies optional nature without misrepresentation."
+  },
+  {
+    "label": "Repayment Schedule",
+    "question": "Can I change my EMI due date?",
+    "answer": "Changing an EMI due date may be possible in some cases, subject to bank approval and applicable conditions.",
+    "reasoning": "Banks may allow changes but not as a guaranteed service."
+  },
+  {
+    "label": "Loan Default",
+    "question": "What is considered a loan default?",
+    "answer": "A loan default generally occurs when scheduled repayments are not made for a prolonged period as per the loan agreement.",
+    "reasoning": "The definition aligns with standard financial terminology."
+  },
+  {
+    "label": "Communication Preference",
+    "question": "How will the bank communicate loan-related updates?",
+    "answer": "Banks typically share loan-related updates through registered email addresses, SMS alerts, or official mobile applications.",
+    "reasoning": "This reflects common communication channels used by banks."
+  },
+  {
+    "label": "Loan Closure",
+    "question": "How do I formally close my loan account?",
+    "answer": "Loan closure usually requires full repayment of outstanding dues and a formal request to the bank, after which closure confirmation is provided.",
+    "reasoning": "This mirrors standard loan closure procedures."
+  },
+  {
+    "label": "Customer Responsibility",
+    "question": "What should I do if I notice an error in my loan account?",
+    "answer": "If you notice an error, you should promptly contact the bank’s customer support team to report and resolve the issue.",
+    "reasoning": "Encouraging timely reporting reflects responsible customer guidance."
+  },
+
+  {
+    "label": "Eligibility Criteria",
+    "question": "Is there a minimum income requirement to apply for a loan?",
+    "answer": "Most banks specify a minimum income requirement to ensure the borrower can manage loan repayments comfortably.",
+    "reasoning": "Income thresholds help lenders assess basic repayment capacity."
+  },
+  {
+    "label": "Employment Verification",
+    "question": "Why does the bank verify my employer details?",
+    "answer": "Employer verification helps confirm employment stability and the authenticity of income information provided in the application.",
+    "reasoning": "Employment checks reduce fraud and credit risk."
+  },
+  {
+    "label": "Loan Tenure",
+    "question": "How do I choose the right loan tenure?",
+    "answer": "Choosing the right loan tenure involves balancing affordable EMI amounts with the total interest payable over time.",
+    "reasoning": "Longer tenures reduce EMI but increase total interest, which is a key trade-off."
+  },
+  {
+    "label": "Interest Calculation",
+    "question": "Is interest calculated daily or monthly on loans?",
+    "answer": "Interest calculation methods vary by loan product and lender, and details are provided in the loan agreement.",
+    "reasoning": "Different loans use different compounding methods, which must be contractually disclosed."
+  },
+  {
+    "label": "Loan Modification",
+    "question": "Can I request a change in loan terms after disbursement?",
+    "answer": "Changes to loan terms after disbursement may be considered in specific cases, subject to bank policy and approval.",
+    "reasoning": "Loan modifications are possible but not guaranteed."
+  },
+  {
+    "label": "Repayment Tracking",
+    "question": "How can I track my remaining loan balance?",
+    "answer": "Remaining loan balance can typically be tracked through online banking portals or periodic account statements.",
+    "reasoning": "Banks provide transparency through digital or documented records."
+  },
+  {
+    "label": "Missed Payment",
+    "question": "What should I do if I accidentally miss an EMI?",
+    "answer": "If an EMI is missed, you should contact the bank promptly to understand penalties and explore corrective steps.",
+    "reasoning": "Early communication can help limit negative impacts."
+  },
+  {
+    "label": "Loan Offers",
+    "question": "Why do loan offers differ between customers?",
+    "answer": "Loan offers differ based on factors such as credit profile, income, existing liabilities, and bank risk assessments.",
+    "reasoning": "Personalized risk-based pricing is standard in lending."
+  },
+  {
+    "label": "Pre-Approval",
+    "question": "What does loan pre-approval mean?",
+    "answer": "Loan pre-approval indicates preliminary eligibility based on initial information, subject to final verification.",
+    "reasoning": "Pre-approval is conditional and not a final commitment."
+  },
+  {
+    "label": "Loan Cancellation",
+    "question": "Can I cancel my loan after approval but before disbursement?",
+    "answer": "Loan cancellation before disbursement may be possible, though certain administrative charges could apply.",
+    "reasoning": "Banks often allow cancellation with defined conditions."
+  },
+  {
+    "label": "Credit Utilization",
+    "question": "Does high credit card usage affect loan approval?",
+    "answer": "High credit utilization can affect loan approval, as it may indicate higher financial obligations.",
+    "reasoning": "Credit utilization is a common factor in credit evaluation."
+  },
+  {
+    "label": "Loan Communication",
+    "question": "Will I receive reminders before my EMI due date?",
+    "answer": "Many banks provide EMI reminders through SMS, email, or app notifications as part of customer service.",
+    "reasoning": "Reminder systems are widely used to support timely payments."
+  },
+  {
+    "label": "Account Management",
+    "question": "Can I update my contact details during the loan tenure?",
+    "answer": "Yes, banks generally allow customers to update contact details to ensure uninterrupted communication.",
+    "reasoning": "Accurate contact information is essential for service and compliance."
+  },
+  {
+    "label": "Loan Audit",
+    "question": "Why does the bank occasionally review my loan account?",
+    "answer": "Periodic loan reviews help banks ensure compliance with terms and monitor account performance.",
+    "reasoning": "Account reviews are part of routine risk management."
+  },
+  {
+    "label": "Repayment Flexibility",
+    "question": "Can I make additional payments toward my loan anytime?",
+    "answer": "Additional payments may be allowed depending on the loan type and applicable prepayment conditions.",
+    "reasoning": "Not all loans permit unrestricted extra payments."
+  },
+  {
+    "label": "Loan Documentation",
+    "question": "Why are income documents required for loan processing?",
+    "answer": "Income documents help banks verify earning capacity and determine suitable loan limits.",
+    "reasoning": "Documented income is a core input for credit assessment."
+  },
+  {
+    "label": "Interest Transparency",
+    "question": "How can I confirm the interest rate applied to my loan?",
+    "answer": "The applicable interest rate is mentioned in the loan agreement and reflected in account statements.",
+    "reasoning": "Interest rates must be transparently disclosed to borrowers."
+  },
+  {
+    "label": "Loan Portability",
+    "question": "Can I transfer my loan to another branch of the same bank?",
+    "answer": "Loan portability within the same bank may be possible, subject to internal policies and documentation.",
+    "reasoning": "Internal transfers depend on operational feasibility."
+  },
+  {
+    "label": "Customer Support",
+    "question": "Who should I contact for loan-related complaints?",
+    "answer": "Loan-related complaints can be raised with the bank’s customer support or grievance redressal department.",
+    "reasoning": "Banks maintain formal channels for issue resolution."
+  },
+  {
+    "label": "Loan Transparency",
+    "question": "Why do banks provide an amortization schedule?",
+    "answer": "An amortization schedule shows the breakup of principal and interest over time, helping borrowers understand repayment structure.",
+    "reasoning": "This promotes transparency and informed financial planning."
+  }
+]
+
