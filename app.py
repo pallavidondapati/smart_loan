@@ -30,7 +30,8 @@ def get_llm_reply(message):
 
 
 
-app = Flask(__name__, template_folder="templets")
+app = Flask(__name__, template_folder="templates", static_folder="static")
+
 
 
 # LOAD ML MODEL
@@ -364,3 +365,4 @@ def download_report():
 
 if __name__ == "__main__":
     app.run(port=5500, debug=False)
+
