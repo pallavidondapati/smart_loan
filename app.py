@@ -11,6 +11,7 @@ from reportlab.lib import colors
 import shap
 import pandas as pd
 from flask import send_file
+app = Flask(__name__, template_folder="templates", static_folder="static")
 llm_pipe = pipeline(
     "text2text-generation",
     model="google/flan-t5-large",
@@ -30,7 +31,7 @@ def get_llm_reply(message):
 
 
 
-app = Flask(__name__, template_folder="templates", static_folder="static")
+
 
 
 
@@ -365,4 +366,5 @@ def download_report():
 
 if __name__ == "__main__":
     app.run(port=5500, debug=False)
+
 
